@@ -1,0 +1,12 @@
+Package: firmware-misc-nonfree
+Version: 20250808-88-g69706560
+Architecture: all
+Maintainer: Linux Firmware <linux-firmware@kernel.org>
+Installed-Size: 1669518
+Section: unknown
+Priority: optional
+Homepage: https://gitlab.com/kernel-firmware/linux-firmware
+Description: Upstream snapshot of linux-firmware package
+ Monolithic snapshot of upstream linux-firmware package, intended to
+ to validate upstream firmware without conflicts to the distribution
+ package.

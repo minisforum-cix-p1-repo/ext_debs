@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+# Enable the service to start on boot
+systemctl enable S30tee-supplicant.service || true
+
+exit 0

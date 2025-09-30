@@ -1,0 +1,76 @@
+{
+    "file_format_version" : "0.0.1",
+    "cix" : [
+        // OpenKylin
+        "kylin-wlcom",
+
+        // Deepin
+
+        // Debian
+        "gnome-shell",
+        "kwin_wayland",
+
+        // Common apps
+        "Xwayland",
+        "paretrace",
+        "paretrace_wayland"
+    ],
+    "mesa" : [
+        // OpenKylin
+        "ukui-panel",
+        "ukui-menu",
+        "ukui-control-center",
+        "kylin-video",
+        "ukui-window-switch-wlcom",
+
+        // Deepin
+        "dde-launchpad",
+        "deepin-deepinid-client",
+        "deepin-album",
+
+        // Debian
+        "plasmashell",
+        "systemsettings",
+        "plasma-discover",
+
+        // Common apps
+        "eglgears_wayland",
+        "glmark2-wayland",
+        "kdenlive",
+        "digikam",
+        "obs",
+        "yelp"
+    ],
+    "hybrid_gpu" : {
+        // 0:DGPU only(default), 1:IGPU only, 2:auto
+        "mode" : 0,
+        // Only available when mode is 2
+        // Define the apps that need to run on DGPU.
+        "dgpu" : [
+        "blender"
+        ]
+    },
+    "swrast": {
+        "enable": true,
+        "apps": [
+            "code"
+        ]
+    },
+    "context_priority": {
+        "enable": true,
+        "apps": {
+            // 0: high, 1: medium, 2: low
+            "gnome-shell": 0,
+            "kylin-wlcom": 0,
+            "treeland": 0
+        }
+    },
+    "log": {
+        "enable": false,
+        "level" : 2
+    },
+    "dump_shader": {
+        "enable": false,
+        "path": "/tmp"
+    }
+}

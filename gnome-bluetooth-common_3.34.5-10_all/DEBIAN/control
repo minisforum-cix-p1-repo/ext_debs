@@ -1,0 +1,15 @@
+Package: gnome-bluetooth-common
+Source: gnome-bluetooth
+Version: 3.34.5-10
+Architecture: all
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 1014
+Breaks: gnome-bluetooth (<< 3.34.5-6~)
+Replaces: gnome-bluetooth (<< 3.34.5-6~)
+Section: gnome
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://wiki.gnome.org/Projects/GnomeBluetooth
+Description: GNOME Bluetooth common files
+ This package contains common files for the GNOME Bluetooth
+ libraries and Send To app.

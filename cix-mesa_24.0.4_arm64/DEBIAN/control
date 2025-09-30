@@ -1,0 +1,10 @@
+Package: cix-mesa
+Version: 24.0.4
+Architecture: arm64
+Maintainer: Cix OS team
+Depends: libc6 (>= 2.34)
+Provides: libgl1-mesa-dri, libgl1, libglapi-mesa, libgl-dev
+Replaces: libgl1-mesa-dri, libgl1, libglapi-mesa, libgl-dev
+Section: utils
+Priority: optional
+Description: cix-mesa package

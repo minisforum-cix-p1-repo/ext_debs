@@ -1,0 +1,19 @@
+Package: chromium-common
+Source: chromium
+Version: 128.0.6613.84-1~deb12u1
+Architecture: arm64
+Maintainer: Debian Chromium Team <chromium@packages.debian.org>
+Installed-Size: 17826
+Depends: libc++1-16 (>= 1:16.0.6), libc++abi1-16 (>= 1:16.0.6), libc6 (>= 2.34), libdrm2 (>= 2.3.1), libunwind-16 (>= 1:16.0.6), libx11-6, libxnvctrl0, zlib1g (>= 1:1.2.11.dfsg), x11-utils, xdg-utils
+Recommends: upower, udev, libgl1-mesa-dri, chromium-sandbox, fonts-liberation, notification-daemon, system-config-printer
+Breaks: chromium (<< 128.0.6613.84-1~deb12u1)
+Replaces: chromium (<< 128.0.6613.84-1~deb12u1)
+Section: web
+Priority: optional
+Homepage: http://www.chromium.org/Home
+Description: web browser - common resources used by the chromium packages
+ Web browser that aims to build a safer, faster, and more stable internet
+ browsing experience.
+ .
+ This package contains resources that are in common to different chromium
+ packages.

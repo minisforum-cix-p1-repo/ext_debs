@@ -1,0 +1,5 @@
+4213d3bbeecf2d9db02f0ad45709a5d9  usr/bin/Xwayland
+e7b98ac560e2aff9bbb2c50e48be2431  usr/lib/aarch64-linux-gnu/pkgconfig/xwayland.pc
+41eedaf7eb53560a792d55d42a02b53a  usr/share/doc/xwayland/changelog.Debian.gz
+5df87950af51ac2c5822094553ea1880  usr/share/doc/xwayland/copyright
+4d7cf436127367d3271fd17553e87637  usr/share/man/man1/Xwayland.1.gz

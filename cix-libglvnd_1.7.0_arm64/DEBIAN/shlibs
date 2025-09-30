@@ -1,0 +1,6 @@
+libGL 1 cix-libglvnd (>= 1.0.0-1)
+libEGL 1 cix-libglvnd (>= 1.0.0-1)
+libGLX 1 cix-libglvnd (>= 1.0.0-1)
+libGLESv1_CM 1 cix-libglvnd (>= 1.0.0-1)
+libGLESv2 2 cix-libglvnd (>= 1.0.0-1)
+libOpenGL 1 cix-libglvnd (>= 1.0.0-1)

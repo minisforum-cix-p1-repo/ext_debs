@@ -1,0 +1,5 @@
+/etc/default/irqbalance
+/etc/init.d/irqbalance
+/etc/irqbalance/policy.sh
+/etc/sv/irqbalance/.meta/installed
+/etc/sv/irqbalance/run

@@ -1,0 +1,21 @@
+Package: libcolord-gtk1
+Source: colord-gtk
+Version: 0.3.0-3.1
+Architecture: arm64
+Maintainer: Christopher James Halse Rogers <raof@ubuntu.com>
+Installed-Size: 99
+Depends: libc6 (>= 2.17), libcairo2 (>= 1.2.4), libcolord2 (>= 1.4.3), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.0.0)
+Recommends: colord
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://www.freedesktop.org/software/colord/
+Description: GTK+ convenience library for interacting with colord
+ colord is a system service that makes it easy to manage, install and generate
+ colour profiles to accurately colour manage input and output devices.
+ .
+ This is a GTK+ convenience library for interacting with colord. It is useful
+ for both applications which need colour management and applications that wish
+ to perform colour calibration.
+ .
+ This package contains the runtime libraries.

@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=${prefix}
+
+Name: Xwayland
+Description: X Server for Wayland
+Version: 22.1.9
+xwayland=/usr/bin/Xwayland
+have_glamor=true
+have_eglstream=true
+have_initfd=true
+have_listenfd=true
+have_verbose=true
+have_terminate_delay=true
+have_no_touch_pointer_emulation=true

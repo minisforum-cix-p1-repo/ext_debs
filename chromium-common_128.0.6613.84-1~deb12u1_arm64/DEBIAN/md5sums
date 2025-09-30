@@ -1,0 +1,9 @@
+d44fcbf56c898c89997ae34c56582742  usr/lib/chromium/chrome_crashpad_handler
+ffd67c1e24cb35dc109a24024b1ba7ec  usr/lib/chromium/icudtl.dat
+76ebf325304415f0cc20567d0f85c881  usr/lib/chromium/libEGL.so
+7c0e4002cd486a6f09d907cee293d605  usr/lib/chromium/libGLESv2.so
+773913d96808e38fa8626dca7bd5691b  usr/lib/chromium/snapshot_blob.bin
+541b3a5f70e484c9678aa093ce709a5c  usr/lib/chromium/v8_context_snapshot.bin
+ac35e23185ba16a04801ad7fe55c04d2  usr/share/doc/chromium-common/NEWS.Debian.gz
+01778fc1afcf67416e2fa8ccb039d41b  usr/share/doc/chromium-common/changelog.Debian.gz
+918296f15809f50545339fa548b1996e  usr/share/doc/chromium-common/copyright

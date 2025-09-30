@@ -1,0 +1,8 @@
+Package: cix-libglvnd
+Version: 1.7.0
+Architecture: arm64
+Maintainer: Cix OS team
+Depends: libc6 (>= 2.34)
+Section: utils
+Priority: optional
+Description: cix-libglvnd package

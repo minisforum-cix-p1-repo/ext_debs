@@ -1,0 +1,11 @@
+[Unit]
+Description=S30tee-supplicant Service
+
+[Service]
+Type=simple
+ExecStart=/usr/sbin/tee-supplicant -d /dev/teepriv0
+Restart=on-failure
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target

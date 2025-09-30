@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<KeyListEntries group="system" schema="com.solus-project.budgie-wm" name="Screenshots">
+  <!-- translators: $PICTURES will be replaced by the name of the XDG Pictures directory -->
+  <KeyListEntry name="take-full-screenshot" description="Save a screenshot to $PICTURES"/>
+  <!-- translators: $PICTURES will be replaced by the name of the XDG Pictures directory -->
+  <KeyListEntry name="take-window-screenshot" description="Save a screenshot of a window to $PICTURES"/>
+  <!-- translators: $PICTURES will be replaced by the name of the XDG Pictures directory -->
+  <KeyListEntry name="take-region-screenshot" description="Save a screenshot of an area to $PICTURES"/>
+</KeyListEntries>

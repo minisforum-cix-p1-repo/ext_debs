@@ -1,0 +1,11 @@
+prefix=/opt/cixgpu-compat
+includedir=${prefix}/include
+libdir=${prefix}/lib/aarch64-linux-gnu
+
+gbmbackendspath=/opt/cixgpu-compat/lib/aarch64-linux-gnu/gbm
+
+Name: gbm
+Description: Mesa gbm library
+Version: 24.0.4
+Libs: -L${libdir} -lgbm
+Cflags: -I${includedir}
