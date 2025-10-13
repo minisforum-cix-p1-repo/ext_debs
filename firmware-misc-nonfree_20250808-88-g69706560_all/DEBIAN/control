@@ -1,8 +1,8 @@
 Package: firmware-misc-nonfree
-Version: 20250808-88-g69706560
+Version: 20250808-89-g9a0e2b1b
 Architecture: all
 Maintainer: Linux Firmware <linux-firmware@kernel.org>
-Installed-Size: 1669518
+Installed-Size: 1669517
 Section: unknown
 Priority: optional
 Homepage: https://gitlab.com/kernel-firmware/linux-firmware
