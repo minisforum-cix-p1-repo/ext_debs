@@ -1,6 +1,6 @@
 e78afa5736e11a554af8cf4b45985cc8  lib/udev/rules.d/61-mutter.rules
 c17ef2eacf922ec9be7d820a30601370  usr/share/GConf/gsettings/mutter-schemas.convert
-5d25263348ce5520ea8b27cd97c20488  usr/share/doc/mutter-common/changelog.Debian.gz
+a9642672da5d13338af4fb444f49ae7f  usr/share/doc/mutter-common/changelog.Debian.gz
 4b9f09d5187c3144e0a269d05f41a90c  usr/share/doc/mutter-common/copyright
 3d35271b2efcbbf3b5a97b0115ab6fd2  usr/share/glib-2.0/schemas/org.gnome.mutter.gschema.xml
 c64cd501bef57217da90fc2346dbce8e  usr/share/glib-2.0/schemas/org.gnome.mutter.wayland.gschema.xml

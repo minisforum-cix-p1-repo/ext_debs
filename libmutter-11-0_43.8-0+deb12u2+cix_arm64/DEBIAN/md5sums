@@ -1,7 +1,7 @@
-8947e61e82701f711548939df3461b96  usr/lib/aarch64-linux-gnu/libmutter-11.so.0.0.0
+67554bde84195618492d0ad1b934cc4c  usr/lib/aarch64-linux-gnu/libmutter-11.so.0.0.0
 93b60eb995c21813bed4379a3c343c87  usr/lib/aarch64-linux-gnu/mutter-11/libmutter-clutter-11.so.0.0.0
 bb2a2c376fddea9dcbccb1a961006f31  usr/lib/aarch64-linux-gnu/mutter-11/libmutter-cogl-11.so.0.0.0
 d04367140aaf2ff80a86346537a42246  usr/lib/aarch64-linux-gnu/mutter-11/libmutter-cogl-pango-11.so.0.0.0
 6dfa71c84d71c72542daefc30e8fc0d8  usr/share/bug/libmutter-11-0/control
-ac6f6ee339b39cb936f971d70fd768c0  usr/share/doc/libmutter-11-0/changelog.Debian.gz
+cc2bc66c85cfb8b8d47aea9f2de48c6d  usr/share/doc/libmutter-11-0/changelog.Debian.gz
 4b9f09d5187c3144e0a269d05f41a90c  usr/share/doc/libmutter-11-0/copyright

@@ -1,9 +1,9 @@
 Package: mutter-common
 Source: mutter
-Version: 1:43.8-0+deb12u1+cix
+Version: 1:43.8-0+deb12u2+cix
 Architecture: all
 Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
-Installed-Size: 3633
+Installed-Size: 3634
 Depends: dconf-gsettings-backend | gsettings-backend
 Provides: mutter-common (= 43.8-0+deb12u1)
 Section: misc
